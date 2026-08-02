@@ -21,7 +21,7 @@ The project covers:
 - Improving the model using Dropout, L2 Regularization, and Early Stopping
 - Comparing the performance of the original and regularized models
 
-📝 **Full write-up:** [Read the Medium article](PASTE_YOUR_MEDIUM_ARTICLE_LINK_HERE)
+📝 **Full write-up:** [Read the Medium article](https://medium.com/@hasan.huraira704/ee059e7a8d36)
 
 ---
 
